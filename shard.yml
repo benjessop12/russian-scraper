@@ -1,0 +1,13 @@
+name: russian-scraper
+version: 0.1.0
+
+authors:
+  - benjessop12 <ben.jessop@opencorporates.com>
+
+targets:
+  russian-scraper:
+    main: src/russian-scraper.cr
+
+crystal: 0.34.0
+
+license: MIT

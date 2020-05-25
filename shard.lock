@@ -1,0 +1,6 @@
+version: 1.0
+shards:
+  metascraper:
+    github: malina/metascraper
+    commit: 63e241bd77634af3ad9b6ac1262f3261e428243e
+
